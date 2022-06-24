@@ -1,0 +1,40 @@
+easy user interface
+easy testcase describe  system -> arrange inputs and things that create bugs and scnarios
+bind to program
+bind the handler
+bind to program and handler
+run the test case file on the object or program or module(act)
+give you feedback of the run and assertions
+
+beautifulll terminal intergration
+cross language test machine
+you specify the parall the concurrncy or async behvioiur of how you gonna
+execute your code
+make sure that every piece of the code works correctly
+
+each test make sure to test a single functionality
+
+
+
+
+
+we have to states : {
+    write tests for our programs
+    write tests for our handlers (functions inside our program);
+    write test for individual modules of softsare functions classes ,... or the hole program
+
+}
+
+
+for program scope interface its gonna be : mola testcase.json program.py
+for hanlder scope interface its must be
+1.improted as module
+2.create object
+3.create tescase file for handler
+4.set the handler for that file
+5.run it and see the results
+6. you can have lots of handlers and lots of linked to the testcases for a single mola object in
+your test.py program all you need to do is just import the shit
+
+
+
